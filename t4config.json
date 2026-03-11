@@ -6,6 +6,30 @@
   "assets": {
     "contentLayouts": [
       {
+        "id": 4636,
+        "projectPath": "content-types/News/digital-signage"
+      },
+      {
+        "id": 206,
+        "projectPath": "content-types/News/text-fulltext"
+      },
+      {
+        "id": 207,
+        "projectPath": "content-types/News/text-home-1-first"
+      },
+      {
+        "id": 208,
+        "projectPath": "content-types/News/text-home-1-next"
+      },
+      {
+        "id": 209,
+        "projectPath": "content-types/News/text-homelist"
+      },
+      {
+        "id": 205,
+        "projectPath": "content-types/News/text-html"
+      },
+      {
         "id": 10744,
         "projectPath": "content-types/GIT-Example One/text-html"
       },
