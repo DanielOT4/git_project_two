@@ -6,15 +6,32 @@
   "assets": {
     "contentLayouts": [
       {
-        "id": 10744,
-        "projectPath": "content-types/GIT-Example One/text-html"
+        "id": 21,
+        "projectPath": "content-types/Code/text-html"
       },
       {
-        "id": 10745,
-        "projectPath": "content-types/GIT-Example Two/text-html"
+        "id": 360,
+        "projectPath": "content-types/Code/text-sidebar"
       }
     ],
-    "pageLayouts": [],
-    "media": []
+    "pageLayouts": [
+      {
+        "id": 5,
+        "headerCode": "page-layouts/Homepage/headerCode",
+        "footerCode": "page-layouts/Homepage/footerCode"
+      }
+    ],
+    "media": [
+      {
+        "id": 135,
+        "description": "style-local.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/style-local.css"
+      },
+      {
+        "id": 159,
+        "description": "t4-custom.min.js",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/Javascript/t4-custom.min.js"
+      }
+    ]
   }
 }
