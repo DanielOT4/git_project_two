@@ -1,0 +1,20 @@
+{
+  "environments": {
+    "Deployed App Two": "69b42cc6-3248-41f4-ad51-286f163c34f8",
+    "Deployed App One": "dc99e064-3b3f-4573-a572-c7b08f9117ab"
+  },
+  "assets": {
+    "contentLayouts": [
+      {
+        "id": 10744,
+        "projectPath": "content-types/GIT-Example One/text-html"
+      },
+      {
+        "id": 10745,
+        "projectPath": "content-types/GIT-Example Two/text-html"
+      }
+    ],
+    "pageLayouts": [],
+    "media": []
+  }
+}
