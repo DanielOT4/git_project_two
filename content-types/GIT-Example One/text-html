@@ -1,0 +1,12 @@
+<article class="news-feature__card news-feature__card--feature" data-animate data-animation="fade-in-up">
+			<a href="#" class="news-feature__link">
+				<img class="news-feature__image" src="" alt="...">
+				<div class="news-feature__content">
+					<h3>News Heading/h3>
+					<div class="news-feature__meta">
+						<span class="news-feature__duration">10 MIN</span>
+						<span class="news-feature__type">Read more</span>
+					</div>
+				</div>
+			</a>
+		</article>
